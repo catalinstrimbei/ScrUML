@@ -262,7 +262,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XpWH8jcxEeObreURXdy-Cg"/>
       </children>
       <element xmi:type="uml:Package" href="Model-scrum.uml#_XmoLIDcxEeObreURXdy-Cg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Xo8fUTcxEeObreURXdy-Cg" x="36" y="24" width="565" height="313"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Xo8fUTcxEeObreURXdy-Cg" x="36" y="24" width="615" height="313"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_Mr3f8DfwEeOXdLoEgavdtA" type="2012" fontName="Segoe UI" lineColor="0">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Mr4uEDfwEeOXdLoEgavdtA" source="ShadowFigure">
