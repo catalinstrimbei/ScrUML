@@ -276,7 +276,7 @@
       </eAnnotations>
       <children xmi:type="notation:DecorationNode" xmi:id="_Mr5VIjfwEeOXdLoEgavdtA" type="5038"/>
       <element xmi:type="uml:Comment" href="Model-scrum.uml#_MqJosDfwEeOXdLoEgavdtA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Mr3f8TfwEeOXdLoEgavdtA" x="24" y="348" width="613" height="68"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Mr3f8TfwEeOXdLoEgavdtA" x="38" y="348" width="613" height="68"/>
     </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_mO7GsTcwEeObreURXdy-Cg"/>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_dn0cIGzWEeWWFaUj_E9YoQ" name="diagram_compatibility_version" stringValue="1.1.0"/>
